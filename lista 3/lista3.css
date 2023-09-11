@@ -1,0 +1,32 @@
+#AreaTotal {
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid #000;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+#Input1, #Input2, #Input3, #Botao, #AreaResposta {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+a:link, a:visited, a:active{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blueviolet 
+}
